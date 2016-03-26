@@ -97,7 +97,7 @@ public class TopN {
     }
 
 
-    public static class TopNCombiner extends Reducer<Text, IntWritable, Text, IntWritable> {
+    public static class TopNReducerOrig extends Reducer<Text, IntWritable, Text, IntWritable> {
 
         @Override
         public void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
