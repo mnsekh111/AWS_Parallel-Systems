@@ -1,7 +1,3 @@
-Setting up AWS
-----------------------------------
-Spinning Up a Free Hadoop Cluster: Step by Step
-http://insightdataengineering.com/blog/hadoopdevops/
 
 
 Running the Sample word count Jar
