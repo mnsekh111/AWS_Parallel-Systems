@@ -16,5 +16,5 @@ https://www.youtube.com/watch?v=l3MssCo2eSU
 https://sparktutorials.github.io/2015/04/02/setting-up-a-spark-project-with-maven.html
 
 ### Setup guides
-http://www.robertomarchetto.com/spark_java_maven_example
+http://www.robertomarchetto.com/spark_java_maven_example <br>
 https://www.youtube.com/watch?v=eQ0nPdfVfc0
